@@ -1,0 +1,18 @@
+#Graphics
+#Or uncomment the below line
+#gfx/
+*.png
+*.jpg
+
+#Visual Studio Files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+#Project files
+[Bb]uild/
